@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rohan-joshi-5/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohan-joshi-5/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-joshi-5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohan-joshi-5/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohan-joshi-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/rohan-joshi-5/Leetcode/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohan-joshi-5/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohan-joshi-5/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rohan-joshi-5/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rohan-joshi-5/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
