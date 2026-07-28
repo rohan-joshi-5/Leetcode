@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohan-joshi-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/rohan-joshi-5/Leetcode/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/rohan-joshi-5/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohan-joshi-5/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohan-joshi-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/rohan-joshi-5/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
