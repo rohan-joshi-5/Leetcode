@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohan-joshi-5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rohan-joshi-5/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohan-joshi-5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 ## Union-Find
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
