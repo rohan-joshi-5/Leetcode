@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohan-joshi-5/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/rohan-joshi-5/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Union-Find
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohan-joshi-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rohan-joshi-5/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/rohan-joshi-5/Leetcode/tree/master/0389-find-the-difference) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Number Theory
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/rohan-joshi-5/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
@@ -97,5 +100,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/rohan-joshi-5/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
