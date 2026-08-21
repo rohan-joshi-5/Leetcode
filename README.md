@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohan-joshi-5/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohan-joshi-5/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Union-Find
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rohan-joshi-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rohan-joshi-5/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Number Theory
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rohan-joshi-5/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rohan-joshi-5/Leetcode/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/rohan-joshi-5/Leetcode/tree/master/0645-set-mismatch) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/rohan-joshi-5/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
