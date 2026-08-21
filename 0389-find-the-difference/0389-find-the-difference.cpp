@@ -1,16 +1,13 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int>mp;
+        int XOR=0;
         for(char &ch:s){
-            mp[ch]++;
+            XOR^=ch;
         }
-        for(char &ch:t){
-            mp[ch]--;
-            if(mp[ch]<0){
-                return ch;
-            }
+        for(char &ch :t){
+            XOR^=ch;
         }
-        return -1;
+        return (char)XOR;
     }
 };
